@@ -5,7 +5,7 @@
 
 
 
-<p align="left"> <a href="https://twitter.com/catcutd" target="blank"><img src="https://img.shields.io/twitter/follow/emrebcs?logo=twitter&style=for-the-badge" alt="catcutd" /></a> </p>
+<p align="left"> <a href="https://twitter.com/catcutd" target="blank"><img src="https://img.shields.io/twitter/follow/catcutd?logo=twitter&style=for-the-badge" alt="catcutd" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
