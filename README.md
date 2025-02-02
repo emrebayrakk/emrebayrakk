@@ -9,7 +9,11 @@
 </div>
 
 
+
+
 <!--- snake -->
+
+![snake gif](https://github.com/emrebayrakk/emrebayrakk/blob/output/github-snake-dark.svg)
 
 
 <!--h2 without bottom border-->
