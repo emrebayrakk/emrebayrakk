@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="112" height="36" viewBox="0 0 112 36" fill="none">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="111" height="35" rx="18" fill="#f6f8fa" stroke="#d0d7de"/>
+<text x="30" y="23" text-anchor="middle" class="mono" font-size="13" font-weight="700" letter-spacing="1" fill="#59636e">TR</text><rect x="56" y="4" width="52" height="28" rx="14" fill="#6d28d9"/><text x="82" y="23" text-anchor="middle" class="mono" font-size="13" font-weight="700" letter-spacing="1" fill="#ffffff">EN</text>
+</svg>

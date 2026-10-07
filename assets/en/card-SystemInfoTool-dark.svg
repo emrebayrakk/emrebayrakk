@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="500" height="196" viewBox="0 0 500 196" fill="none">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<rect x="0.5" y="0.5" width="499" height="195" rx="16" fill="#161b22" stroke="#30363d"/>
+<text x="26" y="38" class="mono" font-size="12" fill="#6e7681">emrebayrakk/</text>
+<text x="26" y="72" class="sans" font-size="24" font-weight="700" letter-spacing="-0.4" fill="#e6edf3">SystemInfoTool</text>
+<text x="26" y="102" class="sans" font-size="14" fill="#8b949e">Go tool for system info, a shutdown</text>
+<text x="26" y="123" class="sans" font-size="14" fill="#8b949e">timer and resource usage.</text>
+<g><rect x="26" y="146" width="39" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="45.5" y="162.2" text-anchor="middle" class="sans" font-size="12" fill="#e6edf3">Go</text></g><g><rect x="73" y="146" width="48" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="97" y="162.2" text-anchor="middle" class="sans" font-size="12" fill="#e6edf3">CLI</text></g><g><rect x="129" y="146" width="69" height="24" rx="12" fill="#0d1117" stroke="#30363d"/><text x="163.5" y="162.2" text-anchor="middle" class="sans" font-size="12" fill="#e6edf3">Windows</text></g>
+<g transform="translate(456 24)" stroke="#a78bfa" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M4 16L16 4M7 4h9v9"/></g>
+</svg>
