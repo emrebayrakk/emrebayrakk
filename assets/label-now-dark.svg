@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="44" viewBox="0 0 1000 44" fill="none">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+
+<text x="0" y="27" class="mono" font-size="15" letter-spacing="1"><tspan fill="#a78bfa">//</tspan><tspan fill="#e6edf3"> şu an</tspan></text>
+<line x1="98" y1="22" x2="1000" y2="22" stroke="#30363d"/>
+</svg>

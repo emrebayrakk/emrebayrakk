@@ -1,123 +1,61 @@
-<!-- Gradient Divider -->
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
-<div id="user-content-toc"> 
-  <ul align="center"> 
-    <summary>
-      <h1 style="display: inline-block">Hi 👋, I'm Emre</h1>
-    </summary> 
-  </ul> 
-</div>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/header-dark.svg"><img src="assets/header-light.svg" alt="Emre Bayrak — .NET yazılım geliştirici — temiz mimari, dağıtık sistemler ve ben uyurken çalışan araçlar." width="100%"></picture>
 
-<!-- Snake Animation -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg" alt="snake" />
+<p>
+<a href="https://emrebayrak.com"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-web-dark.svg"><img src="assets/link-web-light.svg" alt="emrebayrak.com" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/eemmrree/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-linkedin-dark.svg"><img src="assets/link-linkedin-light.svg" alt="LinkedIn" height="40"></picture></a>
+<a href="https://www.instagram.com/dev.emrebayrak/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/link-instagram-dark.svg"><img src="assets/link-instagram-light.svg" alt="dev.emrebayrak" height="40"></picture></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
+<br/>
 
-## 🚀 About Me
-```js
-const aboutMe = {
-  name: "Emre Bayrak",
-  role: "Software Developer",
-  technologies: {
-    backend: ["C#", ".NET", "Java", "Spring Boot"],
-    frontend: ["React", "JavaScript", "HTML", "CSS"],
-    database: ["PostgreSQL", "MySQL", "MongoDB", "Redis"],
-    devops: ["Docker"],
-    tools: ["VS Code", "Visual Studio", "Postman", "Git"]
-  },
-  interests: [
-    "Clean Architecture",
-    "Microservices",
-    "Performance Optimization"
-  ],
-  currentlyWorkingOn: "Full-stack projects with .NET & React",
-  learning: "ElasticSearch, RabbitMQ",
-  hobbies: ["Coding 💻", "Reading 📚", "Gaming 🎮"],
-  socials: {
-    linkedin: "https://www.linkedin.com/in/eemmrree/",
-    instagram: "https://www.instagram.com/dev.emrebayrak/",
-    github: "https://github.com/emrebayrakk"
-  }
-};
-```
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-now-dark.svg"><img src="assets/label-now-light.svg" alt="şu an" width="100%"></picture>
 
-## 🛠️ Teknolojiler
+| | |
+|---|---|
+| `building` | [x-instagram-automation](https://github.com/emrebayrakk/x-instagram-automation) — X & Instagram için Chrome eklentisi, görev sırası |
+| `learning` | Elasticsearch, RabbitMQ ve dağıtık sistemler |
+| `into` | Clean Architecture, microservices, performans |
+| `offline` | kitap 📚 · oyun 🎮 |
 
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=dotnet,cs,spring,git,css,docker,postgres,redis,github,html,java,js,nginx,mongodb,mysql,postman,ts,vscode,visualstudio&perline=14" alt="tech stack" />
-  </a>
+<br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-stack-dark.svg"><img src="assets/label-stack-light.svg" alt="katmanlar" width="100%"></picture>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/layers-dark.svg"><img src="assets/layers-light.svg" alt="Teknolojiler, Clean Architecture katmanları olarak: Domain, Application, Infrastructure, Presentation" width="100%"></picture>
+
+<sub>Teknolojilerimi Clean Architecture'ı düşündüğüm gibi diziyorum: çekirdekte dil ve tasarım ilkeleri, dışa doğru altyapı ve arayüz.</sub>
+
+<br/><br/>
+
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-projects-dark.svg"><img src="assets/label-projects-light.svg" alt="projeler" width="100%"></picture>
+
+<p>
+<a href="https://github.com/emrebayrakk/x-instagram-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-x-instagram-automation-dark.svg"><img src="assets/card-x-instagram-automation-light.svg" alt="x-instagram-automation" width="49%"></picture></a>
+<a href="https://github.com/emrebayrakk/EMaster"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-EMaster-dark.svg"><img src="assets/card-EMaster-light.svg" alt="EMaster" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/emrebayrakk/VehiclesControl"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-VehiclesControl-dark.svg"><img src="assets/card-VehiclesControl-light.svg" alt="VehiclesControl" width="49%"></picture></a>
+<a href="https://github.com/emrebayrakk/ElasticSearchDotnetMinimalAPI"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-ElasticSearchDotnetMinimalAPI-dark.svg"><img src="assets/card-ElasticSearchDotnetMinimalAPI-light.svg" alt="ElasticSearchDotnetMinimalAPI" width="49%"></picture></a>
+</p>
+<p>
+<a href="https://github.com/emrebayrakk/FinTrack"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-FinTrack-dark.svg"><img src="assets/card-FinTrack-light.svg" alt="FinTrack" width="49%"></picture></a>
+<a href="https://github.com/emrebayrakk/SystemInfoTool"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/card-SystemInfoTool-dark.svg"><img src="assets/card-SystemInfoTool-light.svg" alt="SystemInfoTool" width="49%"></picture></a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
+<sub><a href="https://github.com/emrebayrakk?tab=repositories">tüm repolar →</a></sub>
 
-## 📊 GitHub Stats & Badges
+<br/><br/>
 
-<div align="center">
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/label-activity-dark.svg"><img src="assets/label-activity-light.svg" alt="aktivite" width="100%"></picture>
 
-  <!-- GitHub Stats -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=emrebayrakk&theme=dark&show_icons=true&count_private=true" alt="GitHub stats" />
-
-  <!-- Streak Stats -->
-  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=emrebayrakk&theme=dark&hide_border=false" alt="Streak stats" />
-
-</div>
-
-<div align="center">
-
-  <!-- Top Languages -->
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebayrakk&theme=dark&hide_border=false&no-bg=true&no-frame=true&langs_count=8&layout=compact" alt="Top Langs" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
-
-## 📌 Pinned Projects
-
-| Proje | Açıklama | Teknolojiler |
-|---|---|---|
-| **[EMaster](https://github.com/emrebayrakk/EMaster)** | Clean Architecture’lu gelir-gider projesi; .NET WebAPI + React UI | C#, .NET, React |
-| **[VehiclesControl](https://github.com/emrebayrakk/VehiclesControl)** | JWT, RabbitMQ, Dapper, EF Core kullanan araç kontrol sistemi | C#, .NET, Blazor, RabbitMQ |
-| **[QuerySpecification](https://github.com/emrebayrakk/QuerySpecification)** | Entity Framework için Specification Pattern uygulaması | C# |
-| **[AspNETCoreIoCYapilanmasi](https://github.com/emrebayrakk/AspNETCoreIoCYapilanmasi)** | .NET Core’da Dependency Injection yapısı çalışması | C# |
-| **[angular18-ngrx](https://github.com/emrebayrakk/angular18-ngrx)** | Angular + NgRx örnek uygulaması | TypeScript, Angular, NgRx |
-| **[ElasticSearchDotnetMinimalAPI](https://github.com/emrebayrakk/ElasticSearchDotnetMinimalAPI)** | Minimal API ile Elasticsearch & Kibana ile docker entegrasyonu | C#, .NET, Elasticsearch |
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
-
-## 📋 Badges
-
-<p align="center">
-  <!-- Followers -->
-  <a href="https://github.com/emrebayrakk?tab=followers">
-    <img src="https://img.shields.io/github/followers/emrebayrakk?label=Followers&style=social" alt="Followers" />
-  </a>
-  <!-- Stars -->
-  <a href="https://github.com/emrebayrakk?tab=stars">
-    <img src="https://img.shields.io/github/stars/emrebayrakk?style=social" alt="GitHub stars" />
-  </a>
-  <!-- License (örnek MIT, varsa) -->
-  <a href="https://github.com/emrebayrakk/EMaster/blob/main/LICENSE">
-    <img src="https://img.shields.io/github/license/emrebayrakk/EMaster?color=blue" alt="License" />
-  </a>
+<p>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=emrebayrakk&show_icons=true&rank_icon=percentile&bg_color=00000000&hide_border=true&title_color=a78bfa&text_color=8b949e&icon_color=f0b429"><img src="https://github-readme-stats.vercel.app/api?username=emrebayrakk&show_icons=true&rank_icon=percentile&bg_color=00000000&hide_border=true&title_color=6d28d9&text_color=59636e&icon_color=b7791f" alt="GitHub istatistikleri" height="165"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebayrakk&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=a78bfa&text_color=8b949e&icon_color=f0b429"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=emrebayrakk&layout=compact&langs_count=8&bg_color=00000000&hide_border=true&title_color=6d28d9&text_color=59636e&icon_color=b7791f" alt="En çok kullanılan diller" height="165"></picture>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg">
+  <img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Katkı grafiği yılanı" width="100%">
+</picture>
 
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/eemmrree/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234979284-68c11d7f-1acc-4f0c-ac78-044e1037d7b0.png" alt="LinkedIn" height="50" width="50" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://www.instagram.com/dev.emrebayrak/" target="_blank">
-    <img src="https://user-images.githubusercontent.com/88904952/234981169-2dd1e58f-4b7e-468c-8213-034ba62156c3.png" alt="Instagram" height="50" width="50" />
-  </a>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> <!--h1 without bottom border--> 
-
+<sub>// uğradığın için teşekkürler — emrebayrak.com</sub>
