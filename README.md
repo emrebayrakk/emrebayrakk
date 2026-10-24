@@ -40,7 +40,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-stats-dark.svg"><img src="assets/tr/region-stats-light.svg" alt="İstatistik" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 27 katkı, 24 commit, 35 public repo, 4 yıldız." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 25 katkı, 22 commit, 35 public repo, 4 yıldız." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Katkı grafiği yılanı" width="100%"></picture>
 
