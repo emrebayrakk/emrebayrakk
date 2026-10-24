@@ -1,12 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="146" height="44" viewBox="0 0 146 44" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="136" height="42" viewBox="0 0 136 42" fill="none">
 <style>
-.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}.pre{white-space:pre}
+.caret{animation:blink 1.05s steps(1) infinite}@keyframes blink{50%{opacity:0}}
 
-@media (prefers-reduced-motion: reduce){*{animation:none!important}.pkt{display:none}}
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
-<rect x=".5" y=".5" width="145" height="43" rx="12" fill="#0d1822" stroke="#1d3242"/>
-<rect x="6" y="6" width="32" height="32" rx="9" fill="#34d8c3" opacity=".14"/>
-<g transform="translate(11 11)"><rect x="2" y="2" width="18" height="18" rx="4" stroke="#34d8c3" stroke-width="1.7"/><path d="M7 9.5V15M7 6.8v.1M10.5 15v-3.2c0-1.5.9-2.3 2-2.3s1.9.8 1.9 2.3V15M10.5 9.5V15" stroke="#34d8c3" stroke-width="1.7" stroke-linecap="round"/></g>
-<text x="50" y="27" class="sans" font-size="14.5" font-weight="650" fill="#e8f0f5">LinkedIn</text>
-<path d="M124 17l6 5-6 5" stroke="#5b7487" stroke-width="1.8" stroke-linecap="round" stroke-linejoin="round"/>
+<rect x=".5" y=".5" width="135" height="41" rx="10" fill="#10141b" stroke="#232b37"/>
+<g transform="translate(12 10)"><rect x="2" y="2" width="18" height="18" rx="4" stroke="#6bdcff" stroke-width="1.7"/><path d="M7 9.5V15M7 6.8v.1M10.5 15v-3.2c0-1.5.9-2.3 2-2.3s1.9.8 1.9 2.3V15M10.5 9.5V15" stroke="#6bdcff" stroke-width="1.7" stroke-linecap="round"/></g>
+<text x="44" y="26" class="mono" font-size="13" font-weight="600" fill="#d8dee8">LinkedIn</text>
+<text x="122" y="26" text-anchor="end" class="mono" font-size="13" fill="#5d6878">↗</text>
 </svg>

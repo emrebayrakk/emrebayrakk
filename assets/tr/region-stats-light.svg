@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="34" viewBox="0 0 900 34" fill="none">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}.pre{white-space:pre}
+.caret{animation:blink 1.05s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<text x="2" y="22" class="mono pre" xml:space="preserve" font-size="14"><tspan fill="#c4206e">#region</tspan><tspan fill="#1c2532" font-weight="700"> İstatistik</tspan></text>
+<line x1="171.2" y1="17" x2="796.0" y2="17" stroke="#dde3ea" stroke-dasharray="1 6" stroke-linecap="round" stroke-width="2"/>
+<text x="898" y="21.5" text-anchor="end" class="mono" font-size="12.5" font-style="italic" fill="#8a94a3">// son 12 ay</text>
+</svg>

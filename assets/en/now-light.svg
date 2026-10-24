@@ -1,0 +1,42 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="286" viewBox="0 0 900 286" fill="none">
+<style>
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}.pre{white-space:pre}
+.caret{animation:blink 1.05s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
+</style>
+<rect x="0.5" y="0.5" width="899" height="285" rx="14" fill="#ffffff" stroke="#dde3ea"/>
+<path d="M0.5 34V14a13.5 13.5 0 0 1 13.5-13.5H886a13.5 13.5 0 0 1 13.5 13.5V34z" fill="#f3f5f8"/>
+<line x1="0" y1="34" x2="900" y2="34" stroke="#dde3ea"/>
+<circle cx="18" cy="17" r="5" fill="#ff5f57"/><circle cx="35" cy="17" r="5" fill="#febc2e"/><circle cx="52" cy="17" r="5" fill="#28c840"/>
+<text x="72" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="700" fill="#1c2532">TERMINAL</text><rect x="72" y="31" width="62.8" height="2" fill="#0a76a0"/><text x="154.8" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="400" fill="#8a94a3">OUTPUT</text><text x="224.4" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="400" fill="#8a94a3">PROBLEMS</text>
+<text x="882" y="22" text-anchor="end" class="mono" font-size="11" fill="#8a94a3">git log — all repositories</text>
+<text x="24" y="64" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f45">❯</tspan><tspan fill="#1c2532"> git log </tspan><tspan fill="#3b7a12">--author=emrebayrakk</tspan><tspan fill="#1c2532"> --all-repos -n 5</tspan></text>
+<text x="24" y="94" class="mono" font-size="12.5" fill="#9b5d06">bf2ebf5</text>
+<circle cx="100" cy="89.5" r="5" fill="#f1e05a"/>
+<text x="114" y="94" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">x-instagram-automation</text>
+<text x="330" y="94" class="mono" font-size="12.5" fill="#1c2532">feat: plans run without switching tabs, live tempo strip and…</text>
+<text x="876" y="94" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">today</text>
+<text x="24" y="124" class="mono" font-size="12.5" fill="#9b5d06">7af8c25</text>
+<circle cx="100" cy="119.5" r="5" fill="#f1e05a"/>
+<text x="114" y="124" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">grabbit</text>
+<text x="330" y="124" class="mono" font-size="12.5" fill="#1c2532">Grabbit 2.0.2: multi-connection download manager for Win…</text>
+<text x="876" y="124" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">8 days ago</text>
+<text x="24" y="154" class="mono" font-size="12.5" fill="#9b5d06">359dc67</text>
+<circle cx="100" cy="149.5" r="5" fill="#f1e05a"/>
+<text x="114" y="154" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">reqlab</text>
+<text x="330" y="154" class="mono" font-size="12.5" fill="#1c2532">docs: link privacy policy page</text>
+<text x="876" y="154" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">12 days ago</text>
+<text x="24" y="184" class="mono" font-size="12.5" fill="#9b5d06">742eae9</text>
+<circle cx="100" cy="179.5" r="5" fill="#f1e05a"/>
+<text x="114" y="184" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">EMaster</text>
+<text x="330" y="184" class="mono" font-size="12.5" fill="#1c2532">Update README.md</text>
+<text x="876" y="184" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">2 years ago</text>
+<text x="24" y="214" class="mono" font-size="12.5" fill="#9b5d06">de700da</text>
+<circle cx="100" cy="209.5" r="5" fill="#7355dd"/>
+<text x="114" y="214" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">ElasticSearchDotnetMinima…</text>
+<text x="330" y="214" class="mono" font-size="12.5" fill="#1c2532">Delete elasticsearch-data directory</text>
+<text x="876" y="214" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">2 years ago</text>
+<text x="24" y="260" class="mono" font-size="12.5" fill="#1a7f45">❯</text>
+<rect x="38" y="249" width="8" height="15" fill="#1c2532" class="caret"/>
+</svg>

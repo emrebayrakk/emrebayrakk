@@ -1,83 +1,79 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="900" height="380" viewBox="0 0 900 380" fill="none">
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="440" viewBox="0 0 900 440" fill="none">
 <style>
-.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}
-.ping{transform-origin:center;transform-box:fill-box;animation:ping 2.4s ease-out infinite}
-@keyframes ping{0%{opacity:.9;transform:scale(.6)}100%{opacity:0;transform:scale(1.9)}}
-.hub{transform-origin:center;transform-box:fill-box;animation:breathe 3.2s ease-in-out infinite}
-@keyframes breathe{0%,100%{opacity:.18;transform:scale(1)}50%{opacity:.34;transform:scale(1.12)}}
-.cursor{animation:blink 1.1s steps(1) infinite}@keyframes blink{50%{opacity:0}}
-@media (prefers-reduced-motion: reduce){*{animation:none!important}.pkt{display:none}}
+.sans{font-family:-apple-system,BlinkMacSystemFont,'Segoe UI','Noto Sans',Helvetica,Arial,sans-serif}.mono{font-family:ui-monospace,SFMono-Regular,'SF Mono','JetBrains Mono',Menlo,Consolas,'Liberation Mono',monospace}.pre{white-space:pre}
+.caret{animation:blink 1.05s steps(1) infinite}@keyframes blink{50%{opacity:0}}
+
+@media (prefers-reduced-motion: reduce){*{animation:none!important}}
 </style>
-<defs><pattern id="g" width="18" height="18" patternUnits="userSpaceOnUse"><circle cx="1.5" cy="1.5" r="1.1" fill="#dbe7ed"/></pattern></defs>
-<rect x="1" y="1" width="898" height="378" rx="22" fill="#f6fafb" stroke="#d3e1e8"/>
-<rect x="500" y="1" width="399" height="378" rx="22" fill="url(#g)"/>
-<rect x="500" y="1" width="60" height="378" fill="#f6fafb" opacity=".0"/>
-<g>
-  <circle cx="54" cy="66" r="4.5" fill="#d4552f"/>
-  <circle cx="54" cy="66" r="9" stroke="#d4552f" stroke-width="1.2" class="ping"/>
-  <text x="70" y="70.5" class="mono" font-size="12.5" fill="#506676">şu an: x-instagram-automation üzerinde</text>
-</g>
-<text x="40" y="150" class="sans" font-size="64" font-weight="800" letter-spacing="-2.6" fill="#0f1f2b">Emre Bayrak<tspan fill="#0d8a7b">.</tspan></text>
-<text x="44" y="196" class="sans" font-size="18.5" fill="#506676">.NET yazılım geliştirici. Temiz mimari,</text>
-<text x="44" y="223" class="sans" font-size="18.5" fill="#506676">dağıtık sistemler ve ben uyurken</text>
-<text x="44" y="250" class="sans" font-size="18.5" fill="#506676">çalışan araçlar yazıyorum.</text>
-<line x1="44" y1="300" x2="470" y2="300" stroke="#d3e1e8"/>
-<text x="44" y="330" class="mono" font-size="12" fill="#7d919f">localhost  ·  backend &amp; full-stack  ·  2021'den beri GitHub'da</text>
-<path id="e0" d="M712 190 Q635.6 156.5 598 82" stroke="#d3e1e8" stroke-width="1.4"/>
-<path id="e1" d="M712 190 Q789.2 154.5 826 78" stroke="#d3e1e8" stroke-width="1.4"/>
-<path id="e2" d="M712 190 Q789.0 162.3 866 190" stroke="#d3e1e8" stroke-width="1.4"/>
-<path id="e3" d="M712 190 Q748.5 267.5 826 304" stroke="#d3e1e8" stroke-width="1.4"/>
-<path id="e4" d="M712 190 Q674.8 265.5 598 300" stroke="#d3e1e8" stroke-width="1.4"/>
-<path id="e5" d="M712 190 Q639.0 163.7 566 190" stroke="#d3e1e8" stroke-width="1.4"/>
-<circle class="pkt" r="3.2" fill="#d4552f" opacity="0"><animateMotion dur="2.40s" begin="0.00s" repeatCount="indefinite"><mpath href="#e0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.40s" begin="0.00s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#d4552f" opacity="0"><animateMotion dur="2.40s" begin="1.20s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e0"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.40s" begin="1.20s" repeatCount="indefinite"/></circle>
-<circle class="pkt" r="3.2" fill="#0d8a7b" opacity="0"><animateMotion dur="2.95s" begin="0.37s" repeatCount="indefinite"><mpath href="#e1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.95s" begin="0.37s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#0d8a7b" opacity="0"><animateMotion dur="2.95s" begin="1.85s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e1"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.95s" begin="1.85s" repeatCount="indefinite"/></circle>
-<circle class="pkt" r="3.2" fill="#0d8a7b" opacity="0"><animateMotion dur="3.50s" begin="0.74s" repeatCount="indefinite"><mpath href="#e2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.50s" begin="0.74s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#0d8a7b" opacity="0"><animateMotion dur="3.50s" begin="2.49s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e2"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.50s" begin="2.49s" repeatCount="indefinite"/></circle>
-<circle class="pkt" r="3.2" fill="#0d8a7b" opacity="0"><animateMotion dur="2.40s" begin="1.11s" repeatCount="indefinite"><mpath href="#e3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.40s" begin="1.11s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#0d8a7b" opacity="0"><animateMotion dur="2.40s" begin="2.31s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e3"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.40s" begin="2.31s" repeatCount="indefinite"/></circle>
-<circle class="pkt" r="3.2" fill="#0d8a7b" opacity="0"><animateMotion dur="2.95s" begin="1.48s" repeatCount="indefinite"><mpath href="#e4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.95s" begin="1.48s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#0d8a7b" opacity="0"><animateMotion dur="2.95s" begin="2.96s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e4"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="2.95s" begin="2.96s" repeatCount="indefinite"/></circle>
-<circle class="pkt" r="3.2" fill="#0d8a7b" opacity="0"><animateMotion dur="3.50s" begin="1.85s" repeatCount="indefinite"><mpath href="#e5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.50s" begin="1.85s" repeatCount="indefinite"/></circle><circle class="pkt" r="2.4" fill="#0d8a7b" opacity="0"><animateMotion dur="3.50s" begin="3.60s" repeatCount="indefinite" keyPoints="1;0" keyTimes="0;1" calcMode="linear"><mpath href="#e5"/></animateMotion><animate attributeName="opacity" values="0;1;1;0" keyTimes="0;.12;.85;1" dur="3.50s" begin="3.60s" repeatCount="indefinite"/></circle>
-<circle cx="712" cy="190" r="52" fill="#0d8a7b" class="hub"/>
-<circle cx="712" cy="190" r="34" fill="#0d8a7b"/>
-<text x="712" y="197" text-anchor="middle" class="sans" font-size="20" font-weight="800" letter-spacing="-.5" fill="#ffffff">EB</text>
-<g>
-  <circle cx="598" cy="82" r="13" fill="#d4552f" opacity="0.14"/>
-  <circle cx="598" cy="82" r="6.5" fill="#ffffff" stroke="#d4552f" stroke-width="2.2"/>
-  <circle cx="598" cy="82" r="13" stroke="#d4552f" stroke-width="1.4" class="ping"/>
-  <rect x="570.0" y="54" width="56.1" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="598" y="66" text-anchor="middle" class="mono" font-size="10.5" fill="#d4552f">x-insta</text>
-</g>
-<g>
-  <circle cx="826" cy="78" r="13" fill="#0d8a7b" opacity="0.14"/>
-  <circle cx="826" cy="78" r="6.5" fill="#ffffff" stroke="#0d8a7b" stroke-width="2.2"/>
-  
-  <rect x="798.0" y="50" width="56.1" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="826" y="62" text-anchor="middle" class="mono" font-size="10.5" fill="#506676">EMaster</text>
-</g>
-<g>
-  <circle cx="866" cy="190" r="13" fill="#0d8a7b" opacity="0.14"/>
-  <circle cx="866" cy="190" r="6.5" fill="#ffffff" stroke="#0d8a7b" stroke-width="2.2"/>
-  
-  <rect x="834.8" y="202" width="62.4" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="866" y="214" text-anchor="middle" class="mono" font-size="10.5" fill="#506676">Vehicles</text>
-</g>
-<g>
-  <circle cx="826" cy="304" r="13" fill="#0d8a7b" opacity="0.14"/>
-  <circle cx="826" cy="304" r="6.5" fill="#ffffff" stroke="#0d8a7b" stroke-width="2.2"/>
-  
-  <rect x="798.0" y="316" width="56.1" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="826" y="328" text-anchor="middle" class="mono" font-size="10.5" fill="#506676">Elastic</text>
-</g>
-<g>
-  <circle cx="598" cy="300" r="13" fill="#0d8a7b" opacity="0.14"/>
-  <circle cx="598" cy="300" r="6.5" fill="#ffffff" stroke="#0d8a7b" stroke-width="2.2"/>
-  
-  <rect x="566.8" y="312" width="62.4" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="598" y="324" text-anchor="middle" class="mono" font-size="10.5" fill="#506676">FinTrack</text>
-</g>
-<g>
-  <circle cx="566" cy="190" r="13" fill="#0d8a7b" opacity="0.14"/>
-  <circle cx="566" cy="190" r="6.5" fill="#ffffff" stroke="#0d8a7b" stroke-width="2.2"/>
-  
-  <rect x="538.0" y="202" width="56.1" height="17" rx="5" fill="#f6fafb" opacity=".92"/>
-  <text x="566" y="214" text-anchor="middle" class="mono" font-size="10.5" fill="#506676">SysInfo</text>
-</g>
+
+<text x="6" y="64" class="mono" font-size="12.5" fill="#8a94a3"><tspan fill="#0a76a0">~/emrebayrakk</tspan>  ⎇ main</text>
+<text x="0" y="150" class="sans" font-size="76" font-weight="800" letter-spacing="-3.4" fill="#1c2532">Emre</text>
+<text x="0" y="226" class="sans" font-size="76" font-weight="800" letter-spacing="-3.4" fill="#1c2532">Bayrak</text>
+<rect x="252.6" y="170" width="14" height="56" fill="#0a76a0" class="caret"/>
+<text x="4" y="266" class="mono" font-size="15" font-weight="700" fill="#0a76a0">.NET Developer</text>
+<text x="4" y="296" class="sans" font-size="15.5" fill="#566373">Temiz mimari, dağıtık sistemler</text><text x="4" y="319" class="sans" font-size="15.5" fill="#566373">ve ben uyurken çalışan araçlar.</text>
+<rect x="4" y="356" width="84.1" height="26" rx="7" fill="#f8fafc" stroke="#dde3ea"/><text x="15" y="373" class="mono" font-size="11.5" fill="#566373">localhost</text><rect x="96.1" y="356" width="111.7" height="26" rx="7" fill="#f8fafc" stroke="#dde3ea"/><text x="107.1" y="373" class="mono" font-size="11.5" fill="#566373">2021'den beri</text>
+<rect x="352.5" y="18.5" width="545" height="403" rx="14" fill="#ffffff" stroke="#dde3ea"/>
+<path d="M352.5 52V32a13.5 13.5 0 0 1 13.5-13.5H884a13.5 13.5 0 0 1 13.5 13.5V52z" fill="#f3f5f8"/>
+<line x1="352" y1="52" x2="898" y2="52" stroke="#dde3ea"/>
+<circle cx="370" cy="35" r="5" fill="#ff5f57"/><circle cx="387" cy="35" r="5" fill="#febc2e"/><circle cx="404" cy="35" r="5" fill="#28c840"/><path d="M424 52V28a4 4 0 0 1 4-4H517a4 4 0 0 1 4 4V52z" fill="#ffffff" stroke="#dde3ea"/><rect x="425" y="51" width="95" height="3" fill="#ffffff"/><rect x="425" y="24" width="95" height="2" fill="#0a76a0"/><text x="438" y="43" class="mono" font-size="11.5" fill="#1c2532">Profile.cs</text><text x="539" y="43" class="mono" font-size="11.5" fill="#8a94a3">Stack.json</text><text x="640" y="43" class="mono" font-size="11.5" fill="#8a94a3">README.md</text>
+<rect x="353" y="53" width="38" height="342" fill="#f3f5f8"/>
+<line x1="391" y1="53" x2="391" y2="396" stroke="#dde3ea"/>
+<g transform="translate(372 80)" color="#1c2532"><path d="M-6-8h8l4 4v12h-12z" stroke="currentColor" stroke-width="1.6"/></g><rect x="353" y="68" width="2" height="24" fill="#0a76a0"/><g transform="translate(372 118)" color="#8a94a3"><circle cx="-1" cy="-1" r="5.5" stroke="currentColor" stroke-width="1.6"/><path d="M3 3l4.5 4.5" stroke="currentColor" stroke-width="1.6" stroke-linecap="round"/></g><g transform="translate(372 156)" color="#8a94a3"><circle cx="-4" cy="-6" r="2.2" stroke="currentColor" stroke-width="1.5"/><circle cx="-4" cy="7" r="2.2" stroke="currentColor" stroke-width="1.5"/><circle cx="5" cy="-1" r="2.2" stroke="currentColor" stroke-width="1.5"/><path d="M-4-3.8v8.6M5 1.2c0 3-4 3-8 3.6" stroke="currentColor" stroke-width="1.5"/></g><g transform="translate(372 194)" color="#8a94a3"><path d="M-5-7l11 7-11 7z" stroke="currentColor" stroke-width="1.6" stroke-linejoin="round"/></g>
+<text x="406" y="70" class="mono" font-size="11" fill="#8a94a3">EmreBayrak › Developer.cs › <tspan fill="#566373">ShipAsync()</tspan></text>
+
+<text x="422" y="98" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">1</text>
+<text x="436" y="98" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#8a94a3" font-style="italic">// .NET geliştirici · temiz mimari · dağıtık sistemler</tspan></text>
+
+
+<text x="422" y="119.5" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">2</text>
+<text x="436" y="119.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#c4206e">namespace</tspan><tspan fill="#1c2532"> </tspan><tspan fill="#0a76a0">EmreBayrak</tspan><tspan fill="#1c2532">;</tspan></text>
+
+
+<text x="422" y="141" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">3</text>
+<text x="436" y="141" class="mono pre" xml:space="preserve" font-size="12.5"></text>
+
+
+<text x="422" y="162.5" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">4</text>
+<text x="436" y="162.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#c4206e">public sealed record </tspan><tspan fill="#0a76a0">Developer</tspan><tspan fill="#1c2532"> : </tspan><tspan fill="#0a76a0">IEngineer</tspan></text>
+
+
+<text x="422" y="184" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">5</text>
+<text x="436" y="184" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">{</tspan></text>
+
+
+<text x="422" y="205.5" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">6</text>
+<text x="436" y="205.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">string</tspan><tspan fill="#1c2532"> Name     =&gt; </tspan><tspan fill="#3b7a12">&quot;Emre Bayrak&quot;</tspan><tspan fill="#1c2532">;</tspan></text>
+
+
+<text x="422" y="227" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">7</text>
+<text x="436" y="227" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">string</tspan><tspan fill="#1c2532"> Role     =&gt; </tspan><tspan fill="#3b7a12">&quot;.NET Developer&quot;</tspan><tspan fill="#1c2532">;</tspan></text>
+
+
+<text x="422" y="248.5" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">8</text>
+<text x="436" y="248.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">string</tspan><tspan fill="#1c2532"> Location =&gt; </tspan><tspan fill="#3b7a12">&quot;localhost&quot;</tspan><tspan fill="#1c2532">;</tspan></text>
+
+
+<text x="422" y="270" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">9</text>
+<text x="436" y="270" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">int</tspan><tspan fill="#1c2532">    Since    =&gt; </tspan><tspan fill="#9b5d06">2021</tspan><tspan fill="#1c2532">;</tspan></text>
+
+
+<text x="422" y="291.5" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">10</text>
+<text x="436" y="291.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">string</tspan><tspan fill="#1c2532">[] Stack =&gt; [</tspan><tspan fill="#3b7a12">&quot;C#&quot;</tspan><tspan fill="#1c2532">, </tspan><tspan fill="#3b7a12">&quot;.NET&quot;</tspan><tspan fill="#1c2532">, </tspan><tspan fill="#3b7a12">&quot;React&quot;</tspan><tspan fill="#1c2532">, </tspan><tspan fill="#3b7a12">&quot;Go&quot;</tspan><tspan fill="#1c2532">];</tspan></text>
+
+
+<text x="422" y="313" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">11</text>
+<text x="436" y="313" class="mono pre" xml:space="preserve" font-size="12.5"></text>
+
+<rect x="392" y="319.5" width="505" height="21.5" fill="#f1f6fb"/>
+<text x="422" y="334.5" text-anchor="end" class="mono" font-size="11.5" fill="#566373">12</text>
+<text x="436" y="334.5" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">    </tspan><tspan fill="#c4206e">public </tspan><tspan fill="#0a76a0">Task</tspan><tspan fill="#1c2532"> </tspan><tspan fill="#6f42c1">ShipAsync</tspan><tspan fill="#1c2532">() =&gt; </tspan><tspan fill="#0a76a0">Tools</tspan><tspan fill="#1c2532">.</tspan><tspan fill="#6f42c1">RunWhileISleepAsync</tspan><tspan fill="#1c2532">();</tspan></text>
+<rect x="879.5" y="322.5" width="2" height="16" fill="#0a76a0" class="caret"/>
+
+<text x="422" y="356" text-anchor="end" class="mono" font-size="11.5" fill="#a3acb8">13</text>
+<text x="436" y="356" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1c2532">}</tspan></text>
+
+<path d="M352.5 396H897.5V408a13.5 13.5 0 0 1-13.5 13.5H366a13.5 13.5 0 0 1-13.5-13.5z" fill="#0a76a0"/>
+<text x="366" y="413" class="mono" font-size="11" font-weight="600" fill="#ffffff">⎇ main   ✓ 0</text>
+<text x="884" y="413" text-anchor="end" class="mono" font-size="11" fill="#ffffff">↑ son push: x-instagram-automation · bugün</text>
 </svg>
