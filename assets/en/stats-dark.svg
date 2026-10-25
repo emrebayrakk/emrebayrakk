@@ -10,8 +10,8 @@
 <line x1="0" y1="34" x2="900" y2="34" stroke="#232b37"/>
 <circle cx="18" cy="17" r="5" fill="#ff5f57"/><circle cx="35" cy="17" r="5" fill="#febc2e"/><circle cx="52" cy="17" r="5" fill="#28c840"/><text x="72" y="21.5" class="mono" font-size="11.5" letter-spacing=".6" fill="#8d98a8">OUTPUT · Build</text>
 <text x="24" y="64" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">❯</tspan><tspan fill="#d8dee8"> dotnet build </tspan><tspan fill="#a8e26b">emrebayrakk.csproj</tspan></text>
-<text x="40" y="92" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  25 contributions · last 12 months</tspan></text>
-<text x="40" y="120" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  22 commits · 12 languages</tspan></text>
+<text x="40" y="92" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  29 contributions · last 12 months</tspan></text>
+<text x="40" y="120" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  26 commits · 12 languages</tspan></text>
 <text x="40" y="148" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  35 public repositories · 4 stars</tspan></text>
 <text x="40" y="176" class="mono pre" xml:space="preserve" font-size="13"><tspan fill="#5fd38d">✓</tspan><tspan fill="#d8dee8">  on GitHub since 2021</tspan></text>
 <rect x="24" y="218" width="852" height="34" rx="8" fill="#5fd38d" opacity=".12"/>

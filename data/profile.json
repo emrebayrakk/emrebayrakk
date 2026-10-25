@@ -119,11 +119,11 @@
     "url": "https://github.com/emrebayrakk/x-instagram-automation",
     "stargazerCount": 0,
     "forkCount": 0,
-    "pushedAt": "2026-10-24T21:53:56Z",
+    "pushedAt": "2026-10-24T22:19:02Z",
     "languages": {
      "edges": [
       {
-       "size": 492830,
+       "size": 492899,
        "node": {
         "name": "JavaScript",
         "color": "#f1e05a"
@@ -186,7 +186,7 @@
    {
     "name": "emrebayrakk",
     "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-24T22:17:39Z",
+    "pushedAt": "2026-10-25T03:45:45Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -196,9 +196,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "2a4b44d",
-         "messageHeadline": "Redesign profile README as an IDE with live GitHub data",
-         "committedDate": "2026-10-24T22:17:37Z"
+         "abbreviatedOid": "844762c",
+         "messageHeadline": "chore: refresh profile data [skip ci]",
+         "committedDate": "2026-10-24T22:17:54Z"
         }
        ]
       }
@@ -208,7 +208,7 @@
    {
     "name": "x-instagram-automation",
     "url": "https://github.com/emrebayrakk/x-instagram-automation",
-    "pushedAt": "2026-10-24T21:53:56Z",
+    "pushedAt": "2026-10-24T22:19:02Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -218,9 +218,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "bf2ebf5",
-         "messageHeadline": "feat: plans run without switching tabs, live tempo strip and refreshe…",
-         "committedDate": "2026-10-24T21:53:53Z"
+         "abbreviatedOid": "fbeedde",
+         "messageHeadline": "chore: English as default store locale and fallback UI language (v2.5.1)",
+         "committedDate": "2026-10-24T22:19:00Z"
         }
        ]
       }
@@ -1298,7 +1298,7 @@
     "languages": {
      "edges": [
       {
-       "size": 492830,
+       "size": 492899,
        "node": {
         "name": "JavaScript",
         "color": "#f1e05a"
@@ -1382,10 +1382,10 @@
   ]
  },
  "contributionsCollection": {
-  "totalCommitContributions": 22,
+  "totalCommitContributions": 26,
   "totalPullRequestContributions": 0,
   "contributionCalendar": {
-   "totalContributions": 25
+   "totalContributions": 29
   }
  }
 }

@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-now-dark.svg"><img src="assets/en/region-now-light.svg" alt="Now" width="100%"></picture>
 
-<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/now-dark.svg"><img src="assets/en/now-light.svg" alt="Latest commits: x-instagram-automation (feat: plans run without switching tabs, live tempo strip and refreshe…); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page); EMaster (Update README.md); ElasticSearchDotnetMinimalAPI (Delete elasticsearch-data directory)" width="100%"></picture></a>
+<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/now-dark.svg"><img src="assets/en/now-light.svg" alt="Latest commits: x-instagram-automation (chore: English as default store locale and fallback UI language (v2.5.1)); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page); EMaster (Update README.md); ElasticSearchDotnetMinimalAPI (Delete elasticsearch-data directory)" width="100%"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-pinned-dark.svg"><img src="assets/en/region-pinned-light.svg" alt="Pinned projects" width="100%"></picture>
 
@@ -40,8 +40,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-stats-dark.svg"><img src="assets/en/region-stats-light.svg" alt="Stats" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="25 contributions in the last 12 months, 22 commits, 35 public repositories, 4 stars." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="29 contributions in the last 12 months, 26 commits, 35 public repositories, 4 stars." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Contribution snake" width="100%"></picture>
 
-<p align="center"><sub>// auto-updated by generate.mjs + GitHub Actions · generated 2026-10-24</sub></p>
+<p align="center"><sub>// auto-updated by generate.mjs + GitHub Actions · generated 2026-10-25</sub></p>
