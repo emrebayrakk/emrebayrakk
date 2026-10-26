@@ -184,9 +184,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "taskhub-mobile",
+    "url": "https://github.com/emrebayrakk/taskhub-mobile",
+    "pushedAt": "2026-10-26T07:57:13Z",
+    "primaryLanguage": null,
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "2ed3327",
+         "messageHeadline": "README",
+         "committedDate": "2026-10-26T07:55:50Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "emrebayrakk",
     "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-26T03:49:23Z",
+    "pushedAt": "2026-10-26T04:48:15Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -196,9 +215,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "fc3eb81",
+         "abbreviatedOid": "8a1ce8b",
          "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-10-25T20:51:42Z"
+         "committedDate": "2026-10-26T04:48:14Z"
         }
        ]
       }
@@ -490,33 +509,11 @@
       }
      }
     }
-   },
-   {
-    "name": "OnlineAccountingServer",
-    "url": "https://github.com/emrebayrakk/OnlineAccountingServer",
-    "pushedAt": "2024-09-03T14:58:51Z",
-    "primaryLanguage": {
-     "name": "C#",
-     "color": "#7355dd"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "ac185dc",
-         "messageHeadline": "add cors and minör update",
-         "committedDate": "2024-09-03T14:58:45Z"
-        }
-       ]
-      }
-     }
-    }
    }
   ]
  },
  "all": {
-  "totalCount": 35,
+  "totalCount": 36,
   "nodes": [
    {
     "name": "TravelTrip",
@@ -1378,14 +1375,21 @@
       }
      ]
     }
+   },
+   {
+    "name": "taskhub-mobile",
+    "stargazerCount": 0,
+    "languages": {
+     "edges": []
+    }
    }
   ]
  },
  "contributionsCollection": {
-  "totalCommitContributions": 26,
+  "totalCommitContributions": 27,
   "totalPullRequestContributions": 0,
   "contributionCalendar": {
-   "totalContributions": 29
+   "totalContributions": 31
   }
  }
 }

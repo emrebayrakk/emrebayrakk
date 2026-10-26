@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-now-dark.svg"><img src="assets/tr/region-now-light.svg" alt="Şu an" width="100%"></picture>
 
-<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/now-dark.svg"><img src="assets/tr/now-light.svg" alt="Son commit'ler: x-instagram-automation (chore: English as default store locale and fallback UI language (v2.5.1)); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page); EMaster (Update README.md); ElasticSearchDotnetMinimalAPI (Delete elasticsearch-data directory)" width="100%"></picture></a>
+<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/now-dark.svg"><img src="assets/tr/now-light.svg" alt="Son commit'ler: taskhub-mobile (README); x-instagram-automation (chore: English as default store locale and fallback UI language (v2.5.1)); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page); EMaster (Update README.md)" width="100%"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-pinned-dark.svg"><img src="assets/tr/region-pinned-light.svg" alt="Sabitlenen projeler" width="100%"></picture>
 
@@ -40,7 +40,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-stats-dark.svg"><img src="assets/tr/region-stats-light.svg" alt="İstatistik" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 29 katkı, 26 commit, 35 public repo, 4 yıldız." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 31 katkı, 27 commit, 36 public repo, 4 yıldız." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Katkı grafiği yılanı" width="100%"></picture>
 
