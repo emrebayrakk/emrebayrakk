@@ -184,6 +184,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "emrebayrakk",
+    "url": "https://github.com/emrebayrakk/emrebayrakk",
+    "pushedAt": "2026-10-29T13:02:19Z",
+    "primaryLanguage": {
+     "name": "JavaScript",
+     "color": "#f1e05a"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "b4cf0bc",
+         "messageHeadline": "chore: refresh profile data [skip ci]",
+         "committedDate": "2026-10-29T13:02:17Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "x-instagram-automation",
     "url": "https://github.com/emrebayrakk/x-instagram-automation",
     "pushedAt": "2026-10-29T11:24:57Z",
@@ -199,28 +221,6 @@
          "abbreviatedOid": "af264e7",
          "messageHeadline": "feat: editable plan steps and glass redesign (v2.7.0)",
          "committedDate": "2026-10-29T11:24:54Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "emrebayrakk",
-    "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-29T05:49:09Z",
-    "primaryLanguage": {
-     "name": "JavaScript",
-     "color": "#f1e05a"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "371caf4",
-         "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-10-29T05:49:07Z"
         }
        ]
       }
