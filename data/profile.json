@@ -119,18 +119,18 @@
     "url": "https://github.com/emrebayrakk/x-instagram-automation",
     "stargazerCount": 0,
     "forkCount": 0,
-    "pushedAt": "2026-10-24T22:19:02Z",
+    "pushedAt": "2026-10-29T11:24:57Z",
     "languages": {
      "edges": [
       {
-       "size": 492899,
+       "size": 497760,
        "node": {
         "name": "JavaScript",
         "color": "#f1e05a"
        }
       },
       {
-       "size": 49525,
+       "size": 56301,
        "node": {
         "name": "CSS",
         "color": "#663399"
@@ -184,9 +184,9 @@
  "recent": {
   "nodes": [
    {
-    "name": "emrebayrakk",
-    "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-29T04:53:41Z",
+    "name": "x-instagram-automation",
+    "url": "https://github.com/emrebayrakk/x-instagram-automation",
+    "pushedAt": "2026-10-29T11:24:57Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -196,9 +196,31 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "0a5abf2",
+         "abbreviatedOid": "af264e7",
+         "messageHeadline": "feat: editable plan steps and glass redesign (v2.7.0)",
+         "committedDate": "2026-10-29T11:24:54Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
+    "name": "emrebayrakk",
+    "url": "https://github.com/emrebayrakk/emrebayrakk",
+    "pushedAt": "2026-10-29T05:49:09Z",
+    "primaryLanguage": {
+     "name": "JavaScript",
+     "color": "#f1e05a"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "371caf4",
          "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-10-28T22:36:11Z"
+         "committedDate": "2026-10-29T05:49:07Z"
         }
        ]
       }
@@ -218,28 +240,6 @@
          "abbreviatedOid": "2ed3327",
          "messageHeadline": "README",
          "committedDate": "2026-10-26T07:55:50Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "x-instagram-automation",
-    "url": "https://github.com/emrebayrakk/x-instagram-automation",
-    "pushedAt": "2026-10-24T22:19:02Z",
-    "primaryLanguage": {
-     "name": "JavaScript",
-     "color": "#f1e05a"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "fbeedde",
-         "messageHeadline": "chore: English as default store locale and fallback UI language (v2.5.1)",
-         "committedDate": "2026-10-24T22:19:00Z"
         }
        ]
       }
@@ -1295,7 +1295,7 @@
     "languages": {
      "edges": [
       {
-       "size": 492899,
+       "size": 497760,
        "node": {
         "name": "JavaScript",
         "color": "#f1e05a"
@@ -1309,7 +1309,7 @@
        }
       },
       {
-       "size": 49525,
+       "size": 56301,
        "node": {
         "name": "CSS",
         "color": "#663399"
@@ -1386,10 +1386,10 @@
   ]
  },
  "contributionsCollection": {
-  "totalCommitContributions": 27,
+  "totalCommitContributions": 28,
   "totalPullRequestContributions": 0,
   "contributionCalendar": {
-   "totalContributions": 31
+   "totalContributions": 33
   }
  }
 }

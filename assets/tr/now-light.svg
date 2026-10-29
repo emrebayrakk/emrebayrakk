@@ -12,16 +12,16 @@
 <text x="72" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="700" fill="#1c2532">TERMINAL</text><rect x="72" y="31" width="62.8" height="2" fill="#0a76a0"/><text x="154.8" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="400" fill="#8a94a3">OUTPUT</text><text x="224.4" y="22" class="mono" font-size="11" letter-spacing="1" font-weight="400" fill="#8a94a3">PROBLEMS</text>
 <text x="882" y="22" text-anchor="end" class="mono" font-size="11" fill="#8a94a3">git log — tüm repolar</text>
 <text x="24" y="64" class="mono pre" xml:space="preserve" font-size="12.5"><tspan fill="#1a7f45">❯</tspan><tspan fill="#1c2532"> git log </tspan><tspan fill="#3b7a12">--author=emrebayrakk</tspan><tspan fill="#1c2532"> --all-repos -n 5</tspan></text>
-<text x="24" y="94" class="mono" font-size="12.5" fill="#9b5d06">2ed3327</text>
-<circle cx="100" cy="89.5" r="5" fill="#8a94a3"/>
-<text x="114" y="94" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">taskhub-mobile</text>
-<text x="330" y="94" class="mono" font-size="12.5" fill="#1c2532">README</text>
-<text x="876" y="94" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">3 gün önce</text>
-<text x="24" y="124" class="mono" font-size="12.5" fill="#9b5d06">fbeedde</text>
-<circle cx="100" cy="119.5" r="5" fill="#f1e05a"/>
-<text x="114" y="124" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">x-instagram-automation</text>
-<text x="330" y="124" class="mono" font-size="12.5" fill="#1c2532">chore: English as default store locale and fallback UI l…</text>
-<text x="876" y="124" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">5 gün önce</text>
+<text x="24" y="94" class="mono" font-size="12.5" fill="#9b5d06">af264e7</text>
+<circle cx="100" cy="89.5" r="5" fill="#f1e05a"/>
+<text x="114" y="94" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">x-instagram-automation</text>
+<text x="330" y="94" class="mono" font-size="12.5" fill="#1c2532">feat: editable plan steps and glass redesign (v2.7.0)</text>
+<text x="876" y="94" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">bugün</text>
+<text x="24" y="124" class="mono" font-size="12.5" fill="#9b5d06">2ed3327</text>
+<circle cx="100" cy="119.5" r="5" fill="#8a94a3"/>
+<text x="114" y="124" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">taskhub-mobile</text>
+<text x="330" y="124" class="mono" font-size="12.5" fill="#1c2532">README</text>
+<text x="876" y="124" text-anchor="end" class="mono" font-size="12" fill="#8a94a3">3 gün önce</text>
 <text x="24" y="154" class="mono" font-size="12.5" fill="#9b5d06">7af8c25</text>
 <circle cx="100" cy="149.5" r="5" fill="#f1e05a"/>
 <text x="114" y="154" class="mono" font-size="12.5" font-weight="700" fill="#0a76a0">grabbit</text>
