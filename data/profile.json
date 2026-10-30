@@ -184,6 +184,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "emrebayrakk",
+    "url": "https://github.com/emrebayrakk/emrebayrakk",
+    "pushedAt": "2026-10-30T12:57:28Z",
+    "primaryLanguage": {
+     "name": "JavaScript",
+     "color": "#f1e05a"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "6bd9b1c",
+         "messageHeadline": "chore: refresh profile data [skip ci]",
+         "committedDate": "2026-10-30T12:57:27Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "taskhub-mobile",
     "url": "https://github.com/emrebayrakk/taskhub-mobile",
     "pushedAt": "2026-10-30T12:44:52Z",
@@ -196,28 +218,6 @@
          "abbreviatedOid": "2ed3327",
          "messageHeadline": "README",
          "committedDate": "2026-10-26T07:55:50Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "emrebayrakk",
-    "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-30T05:50:01Z",
-    "primaryLanguage": {
-     "name": "JavaScript",
-     "color": "#f1e05a"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "e16e80e",
-         "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-10-30T05:50:00Z"
         }
        ]
       }
