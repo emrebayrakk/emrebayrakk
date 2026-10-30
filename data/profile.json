@@ -184,9 +184,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "taskhub-mobile",
+    "url": "https://github.com/emrebayrakk/taskhub-mobile",
+    "pushedAt": "2026-10-30T12:44:52Z",
+    "primaryLanguage": null,
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "2ed3327",
+         "messageHeadline": "README",
+         "committedDate": "2026-10-26T07:55:50Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "emrebayrakk",
     "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-10-30T04:53:26Z",
+    "pushedAt": "2026-10-30T05:50:01Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -196,9 +215,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "b954f4b",
+         "abbreviatedOid": "e16e80e",
          "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-10-29T22:45:38Z"
+         "committedDate": "2026-10-30T05:50:00Z"
         }
        ]
       }
@@ -221,25 +240,6 @@
          "abbreviatedOid": "af264e7",
          "messageHeadline": "feat: editable plan steps and glass redesign (v2.7.0)",
          "committedDate": "2026-10-29T11:24:54Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "taskhub-mobile",
-    "url": "https://github.com/emrebayrakk/taskhub-mobile",
-    "pushedAt": "2026-10-26T13:07:14Z",
-    "primaryLanguage": null,
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "2ed3327",
-         "messageHeadline": "README",
-         "committedDate": "2026-10-26T07:55:50Z"
         }
        ]
       }
