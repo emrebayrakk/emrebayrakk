@@ -48,28 +48,35 @@
     "url": "https://github.com/emrebayrakk/VehiclesControl",
     "stargazerCount": 1,
     "forkCount": 1,
-    "pushedAt": "2024-12-19T15:56:44Z",
+    "pushedAt": "2026-11-08T20:55:45Z",
     "languages": {
      "edges": [
       {
-       "size": 155559,
+       "size": 267756,
        "node": {
         "name": "C#",
         "color": "#7355dd"
        }
       },
       {
-       "size": 22561,
+       "size": 170914,
        "node": {
         "name": "HTML",
         "color": "#e34c26"
        }
       },
       {
-       "size": 7249,
+       "size": 45674,
        "node": {
         "name": "CSS",
         "color": "#663399"
+       }
+      },
+      {
+       "size": 412,
+       "node": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
        }
       }
      ]
@@ -184,9 +191,31 @@
  "recent": {
   "nodes": [
    {
+    "name": "VehiclesControl",
+    "url": "https://github.com/emrebayrakk/VehiclesControl",
+    "pushedAt": "2026-11-08T20:55:45Z",
+    "primaryLanguage": {
+     "name": "C#",
+     "color": "#7355dd"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "d588c96",
+         "messageHeadline": "Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu",
+         "committedDate": "2026-11-08T20:55:35Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "emrebayrakk",
     "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-11-08T06:01:55Z",
+    "pushedAt": "2026-11-08T13:25:47Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -196,9 +225,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "d28d58d",
+         "abbreviatedOid": "0d6ef0a",
          "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-11-08T06:01:54Z"
+         "committedDate": "2026-11-08T13:25:46Z"
         }
        ]
       }
@@ -394,28 +423,6 @@
          "abbreviatedOid": "95b0e42",
          "messageHeadline": "Update README.md",
          "committedDate": "2024-12-26T13:26:30Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "VehiclesControl",
-    "url": "https://github.com/emrebayrakk/VehiclesControl",
-    "pushedAt": "2024-12-19T15:56:44Z",
-    "primaryLanguage": {
-     "name": "C#",
-     "color": "#7355dd"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "5a02f01",
-         "messageHeadline": "opentelemetry and prometheus added",
-         "committedDate": "2024-12-19T15:56:36Z"
         }
        ]
       }
@@ -937,24 +944,31 @@
     "languages": {
      "edges": [
       {
-       "size": 155559,
+       "size": 267756,
        "node": {
         "name": "C#",
         "color": "#7355dd"
        }
       },
       {
-       "size": 22561,
+       "size": 170914,
        "node": {
         "name": "HTML",
         "color": "#e34c26"
        }
       },
       {
-       "size": 7249,
+       "size": 45674,
        "node": {
         "name": "CSS",
         "color": "#663399"
+       }
+      },
+      {
+       "size": 412,
+       "node": {
+        "name": "JavaScript",
+        "color": "#f1e05a"
        }
       }
      ]
@@ -1386,10 +1400,10 @@
   ]
  },
  "contributionsCollection": {
-  "totalCommitContributions": 28,
+  "totalCommitContributions": 29,
   "totalPullRequestContributions": 0,
   "contributionCalendar": {
-   "totalContributions": 34
+   "totalContributions": 35
   }
  }
 }
