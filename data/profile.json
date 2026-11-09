@@ -191,6 +191,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "emrebayrakk",
+    "url": "https://github.com/emrebayrakk/emrebayrakk",
+    "pushedAt": "2026-11-09T05:15:00Z",
+    "primaryLanguage": {
+     "name": "JavaScript",
+     "color": "#f1e05a"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "3856fa6",
+         "messageHeadline": "chore: refresh profile data [skip ci]",
+         "committedDate": "2026-11-08T22:06:03Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "VehiclesControl",
     "url": "https://github.com/emrebayrakk/VehiclesControl",
     "pushedAt": "2026-11-08T20:55:45Z",
@@ -206,28 +228,6 @@
          "abbreviatedOid": "d588c96",
          "messageHeadline": "Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu",
          "committedDate": "2026-11-08T20:55:35Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "emrebayrakk",
-    "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-11-08T13:25:47Z",
-    "primaryLanguage": {
-     "name": "JavaScript",
-     "color": "#f1e05a"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "0d6ef0a",
-         "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-11-08T13:25:46Z"
         }
        ]
       }
