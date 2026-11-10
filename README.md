@@ -40,8 +40,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-stats-dark.svg"><img src="assets/tr/region-stats-light.svg" alt="İstatistik" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 35 katkı, 29 commit, 36 public repo, 4 yıldız." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 35 katkı, 29 commit, 36 public repo, 5 yıldız." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Katkı grafiği yılanı" width="100%"></picture>
 
-<p align="center"><sub>// generate.mjs + GitHub Actions ile otomatik güncellenir · üretildi 2026-11-09</sub></p>
+<p align="center"><sub>// generate.mjs + GitHub Actions ile otomatik güncellenir · üretildi 2026-11-10</sub></p>

@@ -124,7 +124,7 @@
     "name": "x-instagram-automation",
     "description": "Chrome extension + desktop app to automate your own X (Twitter) and Instagram accounts: filtered follow (no-photo, follower count, account age, location…), auto-like, unfollow non-followers, account cleanup and a step-by-step task queue. Runs locally, no API key, 6 languages.",
     "url": "https://github.com/emrebayrakk/x-instagram-automation",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "forkCount": 0,
     "pushedAt": "2026-10-29T11:24:57Z",
     "languages": {
@@ -193,7 +193,7 @@
    {
     "name": "emrebayrakk",
     "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-11-09T06:30:22Z",
+    "pushedAt": "2026-11-10T06:28:38Z",
     "primaryLanguage": {
      "name": "JavaScript",
      "color": "#f1e05a"
@@ -203,9 +203,9 @@
       "history": {
        "nodes": [
         {
-         "abbreviatedOid": "b7d6bed",
+         "abbreviatedOid": "61ba33d",
          "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-11-09T06:30:21Z"
+         "committedDate": "2026-11-09T22:22:16Z"
         }
        ]
       }
@@ -1305,7 +1305,7 @@
    },
    {
     "name": "x-instagram-automation",
-    "stargazerCount": 0,
+    "stargazerCount": 1,
     "languages": {
      "edges": [
       {

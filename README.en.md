@@ -40,8 +40,8 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-stats-dark.svg"><img src="assets/en/region-stats-light.svg" alt="Stats" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="35 contributions in the last 12 months, 29 commits, 36 public repositories, 4 stars." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="35 contributions in the last 12 months, 29 commits, 36 public repositories, 5 stars." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Contribution snake" width="100%"></picture>
 
-<p align="center"><sub>// auto-updated by generate.mjs + GitHub Actions · generated 2026-11-09</sub></p>
+<p align="center"><sub>// auto-updated by generate.mjs + GitHub Actions · generated 2026-11-10</sub></p>
