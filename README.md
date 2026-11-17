@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-now-dark.svg"><img src="assets/tr/region-now-light.svg" alt="Şu an" width="100%"></picture>
 
-<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/now-dark.svg"><img src="assets/tr/now-light.svg" alt="Son commit'ler: VehiclesControl (Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu); x-instagram-automation (feat: editable plan steps and glass redesign (v2.7.0)); taskhub-mobile (README); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page)" width="100%"></picture></a>
+<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/now-dark.svg"><img src="assets/tr/now-light.svg" alt="Son commit'ler: grabbit (Grabbit 3.0: rewrite in Rust with Tauri); VehiclesControl (Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu); x-instagram-automation (feat: editable plan steps and glass redesign (v2.7.0)); taskhub-mobile (README); reqlab (docs: link privacy policy page)" width="100%"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-pinned-dark.svg"><img src="assets/tr/region-pinned-light.svg" alt="Sabitlenen projeler" width="100%"></picture>
 
@@ -25,14 +25,14 @@
 </p>
 <p>
 <a href="https://github.com/emrebayrakk/x-instagram-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/pin-x-instagram-automation-dark.svg"><img src="assets/tr/pin-x-instagram-automation-light.svg" alt="x-instagram-automation — Chrome extension + desktop app to automate your own X (Twitter) and Instagram accounts: filtered follow (no-photo, follower count, account age, location…), auto-like, unfollow non-followers, account cleanup and a step-by-step task queue. Runs locally, no API key, 6 languages." width="49%"></picture></a>
-<a href="https://github.com/emrebayrakk/grabbit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/pin-grabbit-dark.svg"><img src="assets/tr/pin-grabbit-light.svg" alt="grabbit — Fast, free IDM alternative for Windows: multi-connection downloads, resume, browser integration, YouTube &amp; social media videos (MP3 too), HLS streams and full-size images. 6 languages." width="49%"></picture></a>
+<a href="https://github.com/emrebayrakk/grabbit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/pin-grabbit-dark.svg"><img src="assets/tr/pin-grabbit-light.svg" alt="grabbit — Fast, free IDM alternative for Windows written in Rust: multi-connection downloads, resume, browser integration, YouTube &amp; social media videos (MP3 too), HLS streams and full-size images. 4 MB installer." width="49%"></picture></a>
 </p>
 
 <sub><a href="https://github.com/emrebayrakk?tab=repositories">tüm repolar →</a></sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-langs-dark.svg"><img src="assets/tr/region-langs-light.svg" alt="Diller" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/languages-dark.svg"><img src="assets/tr/languages-light.svg" alt="Dil dağılımı: JavaScript %73.0, CSS %15.6, C# %4.6, HTML %4.3, SCSS %1.8, Less %0.3" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/languages-dark.svg"><img src="assets/tr/languages-light.svg" alt="Dil dağılımı: JavaScript %71.8, CSS %15.6, C# %4.6, HTML %4.3, SCSS %1.8, Rust %1.3" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-tools-dark.svg"><img src="assets/tr/region-tools-light.svg" alt="Araç zinciri" width="100%"></picture>
 
@@ -40,7 +40,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/region-stats-dark.svg"><img src="assets/tr/region-stats-light.svg" alt="İstatistik" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 35 katkı, 29 commit, 36 public repo, 5 yıldız." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tr/stats-dark.svg"><img src="assets/tr/stats-light.svg" alt="Son 12 ayda 36 katkı, 30 commit, 36 public repo, 5 yıldız." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Katkı grafiği yılanı" width="100%"></picture>
 

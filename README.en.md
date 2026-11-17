@@ -11,7 +11,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-now-dark.svg"><img src="assets/en/region-now-light.svg" alt="Now" width="100%"></picture>
 
-<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/now-dark.svg"><img src="assets/en/now-light.svg" alt="Latest commits: VehiclesControl (Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu); x-instagram-automation (feat: editable plan steps and glass redesign (v2.7.0)); taskhub-mobile (README); grabbit (Grabbit 2.0.2: multi-connection download manager for Windows); reqlab (docs: link privacy policy page)" width="100%"></picture></a>
+<a href="https://github.com/emrebayrakk?tab=repositories&sort=updated"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/now-dark.svg"><img src="assets/en/now-light.svg" alt="Latest commits: grabbit (Grabbit 3.0: rewrite in Rust with Tauri); VehiclesControl (Çok kiracılı galeri yönetim sistemine dönüşüm ve .NET 10 modernizasyonu); x-instagram-automation (feat: editable plan steps and glass redesign (v2.7.0)); taskhub-mobile (README); reqlab (docs: link privacy policy page)" width="100%"></picture></a>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-pinned-dark.svg"><img src="assets/en/region-pinned-light.svg" alt="Pinned projects" width="100%"></picture>
 
@@ -25,14 +25,14 @@
 </p>
 <p>
 <a href="https://github.com/emrebayrakk/x-instagram-automation"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/pin-x-instagram-automation-dark.svg"><img src="assets/en/pin-x-instagram-automation-light.svg" alt="x-instagram-automation — Chrome extension + desktop app to automate your own X (Twitter) and Instagram accounts: filtered follow (no-photo, follower count, account age, location…), auto-like, unfollow non-followers, account cleanup and a step-by-step task queue. Runs locally, no API key, 6 languages." width="49%"></picture></a>
-<a href="https://github.com/emrebayrakk/grabbit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/pin-grabbit-dark.svg"><img src="assets/en/pin-grabbit-light.svg" alt="grabbit — Fast, free IDM alternative for Windows: multi-connection downloads, resume, browser integration, YouTube &amp; social media videos (MP3 too), HLS streams and full-size images. 6 languages." width="49%"></picture></a>
+<a href="https://github.com/emrebayrakk/grabbit"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/pin-grabbit-dark.svg"><img src="assets/en/pin-grabbit-light.svg" alt="grabbit — Fast, free IDM alternative for Windows written in Rust: multi-connection downloads, resume, browser integration, YouTube &amp; social media videos (MP3 too), HLS streams and full-size images. 4 MB installer." width="49%"></picture></a>
 </p>
 
 <sub><a href="https://github.com/emrebayrakk?tab=repositories">all repositories →</a></sub>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-langs-dark.svg"><img src="assets/en/region-langs-light.svg" alt="Languages" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/languages-dark.svg"><img src="assets/en/languages-light.svg" alt="Languages: JavaScript 73.0%, CSS 15.6%, C# 4.6%, HTML 4.3%, SCSS 1.8%, Less 0.3%" width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/languages-dark.svg"><img src="assets/en/languages-light.svg" alt="Languages: JavaScript 71.8%, CSS 15.6%, C# 4.6%, HTML 4.3%, SCSS 1.8%, Rust 1.3%" width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-tools-dark.svg"><img src="assets/en/region-tools-light.svg" alt="Toolchain" width="100%"></picture>
 
@@ -40,7 +40,7 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/region-stats-dark.svg"><img src="assets/en/region-stats-light.svg" alt="Stats" width="100%"></picture>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="35 contributions in the last 12 months, 29 commits, 36 public repositories, 5 stars." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/en/stats-dark.svg"><img src="assets/en/stats-light.svg" alt="36 contributions in the last 12 months, 30 commits, 36 public repositories, 5 stars." width="100%"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake-dark.svg"><img src="https://raw.githubusercontent.com/emrebayrakk/emrebayrakk/output/github-snake.svg" alt="Contribution snake" width="100%"></picture>
 
