@@ -212,6 +212,28 @@
  "recent": {
   "nodes": [
    {
+    "name": "emrebayrakk",
+    "url": "https://github.com/emrebayrakk/emrebayrakk",
+    "pushedAt": "2026-11-18T06:28:20Z",
+    "primaryLanguage": {
+     "name": "JavaScript",
+     "color": "#f1e05a"
+    },
+    "defaultBranchRef": {
+     "target": {
+      "history": {
+       "nodes": [
+        {
+         "abbreviatedOid": "419dd25",
+         "messageHeadline": "chore: refresh profile data [skip ci]",
+         "committedDate": "2026-11-17T20:56:06Z"
+        }
+       ]
+      }
+     }
+    }
+   },
+   {
     "name": "grabbit",
     "url": "https://github.com/emrebayrakk/grabbit",
     "pushedAt": "2026-11-17T19:17:38Z",
@@ -227,28 +249,6 @@
          "abbreviatedOid": "f2edcaa",
          "messageHeadline": "Grabbit 3.0: rewrite in Rust with Tauri",
          "committedDate": "2026-11-17T19:17:02Z"
-        }
-       ]
-      }
-     }
-    }
-   },
-   {
-    "name": "emrebayrakk",
-    "url": "https://github.com/emrebayrakk/emrebayrakk",
-    "pushedAt": "2026-11-17T07:55:35Z",
-    "primaryLanguage": {
-     "name": "JavaScript",
-     "color": "#f1e05a"
-    },
-    "defaultBranchRef": {
-     "target": {
-      "history": {
-       "nodes": [
-        {
-         "abbreviatedOid": "fb86a5c",
-         "messageHeadline": "chore: refresh profile data [skip ci]",
-         "committedDate": "2026-11-17T07:55:34Z"
         }
        ]
       }
